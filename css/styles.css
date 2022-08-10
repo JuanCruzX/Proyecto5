@@ -1,0 +1,55 @@
+* {
+   margin: 0;
+   padding: 0;
+}
+
+.proj .projects a img{
+   width: 400px;
+}
+
+
+
+
+
+/* .wrapper {
+   display: grid;
+   grid-template-columns: repeat(3, 1fr);
+   grid-gap: 10px;
+   grid-auto-rows: minmax(100px, auto);
+ }
+ .one {
+   grid-column: 1;
+   grid-row: 1;
+   background-color: orange;
+   opacity: 0.3;
+ }
+ .two {
+   grid-column: 2;
+   grid-row: 2;
+   background-color: orange;
+   opacity: 0.3;
+ }
+ .three {
+   grid-column: 3;
+   grid-row: 3;
+   background-color: orange;
+   opacity: 0.3;
+ }
+ .four {
+   grid-column: 3;
+   grid-row: 3;
+   background-color: orange;
+   opacity: 0.3;
+ }
+ .five {
+   grid-column: 2;
+   grid-row: 2;
+   background-color: orange;
+   opacity: 0.3;
+ }
+ .six {
+   grid-column: 1;
+   grid-row: 1;
+   background-color: orange;
+   opacity: 0.3;
+ } */
